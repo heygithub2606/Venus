@@ -3,5 +3,3 @@
 Creating Snapshots
   - Initializing a repository
   - Staging changes
-
-new line of code
